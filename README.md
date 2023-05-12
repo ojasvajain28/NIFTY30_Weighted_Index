@@ -1,0 +1,1 @@
+# NIFTY30_Weighted_Index
